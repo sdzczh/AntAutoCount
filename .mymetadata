@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="AntAutoCount"
+  id="myeclipse.1498454341197"
+  context-root="/AntAutoCount"
+  j2ee-spec="6.0"
+  archive="AntAutoCount.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
